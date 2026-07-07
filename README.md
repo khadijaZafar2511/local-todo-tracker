@@ -1,11 +1,5 @@
 # 📝 Persistent To-Do Application
 
-<p align="center">
-  <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="HTML5" />
-  <img src="https://shields.io" alt="CSS3" />
-</p>
-
 ---
 
 ### 🚀 Overview
